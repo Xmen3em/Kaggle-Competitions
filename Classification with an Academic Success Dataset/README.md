@@ -12,7 +12,7 @@ With numerous features describing the diverse aspects of student data, this comp
 * [Notebook Contents](#notebook-contents)
 * [Requirements](#requirements)
 * [Usage](#usage)
-* [Streamlit app](#screenshots)
+* [Streamlit app](#streamlit-app)
 
 ## [Dataset Overview](https://www.kaggle.com/competitions/playground-series-s4e6/data)
 - train.csv - the training set containing student data and target labels for academic success.
@@ -88,6 +88,5 @@ streamlit run Streamlit.py
 ## Streamlit app
 Here is a video demonstration of the Streamlit app in action:
 
-[![Watch the video]()](video%20of%20the%20deploy.mp4)
+![Watch the video](videoofthedeploy-ezgif.com-video-to-gif-converter.gif)
 
-![Streamlit App Demo](video%20of%20the%20deploy.mp4)
